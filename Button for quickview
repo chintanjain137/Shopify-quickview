@@ -1,4 +1,4 @@
-```
+
 <button class="custom-quickview" data-handle="{{ card_product.handle }}" style="position: relative;z-index: 3;">
     Quick view
 </button>
@@ -10,4 +10,3 @@
     
   </div>
 </div>
-```
