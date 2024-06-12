@@ -1,0 +1,13 @@
+```
+<button class="custom-quickview" data-handle="{{ card_product.handle }}" style="position: relative;z-index: 3;">
+    Quick view
+</button>
+
+
+// you can add this quickview popup main div in theme.liquid
+<div class="quickview_popup">
+  <div class="quickview_pro_inner">
+    
+  </div>
+</div>
+```
